@@ -1,0 +1,5 @@
+/Users/Kali/Desktop/corentin.mercier/MyTinyIrc/Server/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Kali/Desktop/corentin.mercier/MyTinyIrc/Server/bin/Debug/Server.exe.mdb
+/Users/Kali/Desktop/corentin.mercier/MyTinyIrc/Server/bin/Debug/Server.exe
+/Users/Kali/Desktop/corentin.mercier/MyTinyIrc/Server/obj/x86/Debug/Server.exe
+/Users/Kali/Desktop/corentin.mercier/MyTinyIrc/Server/obj/x86/Debug/Server.exe.mdb
